@@ -41,6 +41,21 @@
 }
 
 body {
-    
+    font-family: "Montserrat", serif;
+    line-height: 1.6;
+    color: var(--color-gray-900);
+    overflow: hidden;
+    background: var(--color-bg);
+    font-size: .9rem;
 
+}
+
+.container {
+    width: var(--container-width-lg);
+    max-width: 1800px;
+    margin-inline: auto;
+}
+
+section {
+    
 }

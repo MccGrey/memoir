@@ -43,7 +43,7 @@
 body {
     font-family: "Montserrat", serif;
     line-height: 1.6;
-    color: var(--color-gray-900);
+    color: var(--color-gray-200);
     overflow: hidden;
     background: var(--color-bg);
     font-size: .9rem;
@@ -95,7 +95,7 @@ img {
 }
 
 /* ============================NAVBAR===========================================*/
- nav {
+nav {
     background: var(--color-primary-variant);
     width: 100vw;
     height: 4.5rem;
